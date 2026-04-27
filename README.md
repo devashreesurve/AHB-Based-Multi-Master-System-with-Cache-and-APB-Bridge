@@ -8,7 +8,7 @@ The system demonstrates a simplified AMBA AHB interconnect featuring multiple ma
 
 Along with RTL implementation, a complete UVM verification environment was developed to validate memory read/write functionality, protocol transactions, scoreboard checking, and functional coverage.
 
-This project combines both **front-end RTL design** and **verification engineering** skills relevant to ASIC / FPGA / SoC development.
+This project combines both **front-end RTL design** and **verification engineering** skills relevant to ASIC  / SoC development.
 
 ---
 
